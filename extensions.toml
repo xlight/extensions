@@ -1322,7 +1322,7 @@ version = "0.1.1"
 [deepseek-visionary]
 submodule = "extensions/deepseek-visionary"
 path = "crates/visionary-zed-ext"
-version = "0.2.2"
+version = "0.7.4"
 [deepz-theme]
 submodule = "extensions/deepz-theme"
 version = "0.0.1"
