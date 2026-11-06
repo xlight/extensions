@@ -2333,6 +2333,10 @@
 	path = extensions/helm
 	url = https://github.com/cabrinha/helm.zed.git
 
+[submodule "extensions/heritage-theme"]
+	path = extensions/heritage-theme
+	url = https://github.com/heritage-themes/heritage-themes-zed.git
+
 [submodule "extensions/herzha-theme"]
 	path = extensions/herzha-theme
 	url = https://github.com/madhanmaaz/herzha-theme.git
@@ -3220,6 +3224,10 @@
 [submodule "extensions/maya"]
 	path = extensions/maya
 	url = https://github.com/sbowman/maya.zed
+
+[submodule "extensions/maya-react-theme"]
+	path = extensions/maya-react-theme
+	url = https://github.com/yathink3/carbon-react-color-theme-zed.git
 
 [submodule "extensions/maybe-material"]
 	path = extensions/maybe-material
@@ -5880,6 +5888,10 @@
 [submodule "extensions/vercel-theme"]
 	path = extensions/vercel-theme
 	url = https://github.com/NathanBrodin/zed-vercel-theme.git
+
+[submodule "extensions/verdandi-theme"]
+	path = extensions/verdandi-theme
+	url = https://github.com/emeraldsanto/zed-theme-verdandi.git
 
 [submodule "extensions/verdula-theme"]
 	path = extensions/verdula-theme
